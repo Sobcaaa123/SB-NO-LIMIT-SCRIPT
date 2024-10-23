@@ -1,7 +1,6 @@
 -- Definiowanie whitelist
 local whitelist = {
-	123456789, -- ID gracza 1
-	987654321  -- ID gracza 2
+	2578002290 
 }
 
 -- Pobranie lokalnego gracza (LocalPlayer)
